@@ -1,0 +1,5 @@
+package com.restro.enums;
+
+public enum OrderStatus {
+	CREATED,PAYMENT_PENDING,PAYMENT_SUCCESS,PREPARING,OUT_FOR_DELIVERY,DELIVERED,CANCELLED
+}
